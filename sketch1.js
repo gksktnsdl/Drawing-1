@@ -2,7 +2,7 @@ function setup() {
   createCanvas(640, 480);
   background(174,138,183);
   
-  stroke(0);
+  stroke(0,255,0);
 
 //black
     Rect(70,70,50,10);
