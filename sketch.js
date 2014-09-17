@@ -6,8 +6,8 @@ function setup() {
 
   //white
    {
-      stroke(0);
-      fill(0);
+      stroke(255,255,255);
+      fill(255,255,255);
       
 
           rect(360,10,20,40);
